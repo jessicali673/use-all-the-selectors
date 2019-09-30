@@ -26,8 +26,10 @@ nav{
   background-color: #b58900;
 }
 
-.dfn + strong{
+.dfn > strong{
   color: #fff;
 }
 
-a
+a:not(.no-highlight){
+  background-color: #719e07;
+}

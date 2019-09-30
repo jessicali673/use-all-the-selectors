@@ -7,7 +7,7 @@ header, footer{
 }
 
 nav{
-  font-family: sans-serif
+  font-family: sans-serif;
 }
 
 .logo{
@@ -34,7 +34,7 @@ a:not(.no-highlight){
   background-color: #719e07;
 }
 
-rel="external"{
+[rel="external"]{
   background-color: #2694d8;
 }
 
